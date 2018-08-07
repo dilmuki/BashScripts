@@ -1,6 +1,6 @@
 #!/bin/bash
 # ----------------------------------------------------------------------
-# dima's handy rotating-filesystem-snapshot utility
+# dilmurods handy rotating-filesystem-snapshot utility
 # ----------------------------------------------------------------------
 # this needs to be a lot more general, but the basic idea is it makes
 # rotating backup-snapshots of /home whenever called
