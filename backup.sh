@@ -7,7 +7,7 @@
 # ----------------------------------------------------------------------
 
 unset PATH  # suggestion from H. Milz: avoid accidental use of $PATH
-
+#testing
 # ------------- system commands used by this script --------------------
 ID=/usr/bin/id;
 ECHO=/bin/echo;
